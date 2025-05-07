@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JuanOlave1998/reciclappusc.git/static/css/main.cd6acfc6.css",
+    "main.js": "/JuanOlave1998/reciclappusc.git/static/js/main.7b353623.js",
+    "index.html": "/JuanOlave1998/reciclappusc.git/index.html",
+    "main.cd6acfc6.css.map": "/JuanOlave1998/reciclappusc.git/static/css/main.cd6acfc6.css.map",
+    "main.7b353623.js.map": "/JuanOlave1998/reciclappusc.git/static/js/main.7b353623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6acfc6.css",
+    "static/js/main.7b353623.js"
+  ]
+}
